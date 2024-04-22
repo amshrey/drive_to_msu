@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drive to MSU</string>
+    <string name="text1">This app shows how to navigate by car from your current location to Montclair State University</string>
+    <string name="text2">When you click on the button ‘Drive to MSU’, Google Maps will be launched and it will show you the route</string>
+    <string name="home_text">Click on this button to navigate to Montclair State University</string>
+    <string name="btn_text">Drive to MSU</string>
+</resources>
